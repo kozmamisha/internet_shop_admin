@@ -1,0 +1,1 @@
+<div style="display: flex; justify-content: center; margin: 30px 0px">Internet shop 2023</div>

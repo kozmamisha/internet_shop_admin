@@ -1,0 +1,6 @@
+INSERT INTO `db_internet_shop_admin`.`products` (`description`, `image`, `name`, `price`, `category_id`) VALUES ('asd asd sad sad sad', '/static/images/category/car1.jpg', 'bmw-5', '1100', '1');
+INSERT INTO `db_internet_shop_admin`.`products` (`description`, `image`, `name`, `price`, `category_id`) VALUES ('sdf asd sad sad sad', '/static/images/category/car1.jpg', 'bmw-3', '1200', '1');
+INSERT INTO `db_internet_shop_admin`.`products` (`description`, `image`, `name`, `price`, `category_id`) VALUES ('dfg asd sad sad sad', '/static/images/category/car1.jpg', 'bmw-4', '1300', '1');
+INSERT INTO `db_internet_shop_admin`.`products` (`description`, `image`, `name`, `price`, `category_id`) VALUES ('ghj asd sad sad sad', '/static/images/category/car1.jpg', 'bmw-5', '1400', '1');
+INSERT INTO `db_internet_shop_admin`.`products` (`description`, `image`, `name`, `price`, `category_id`) VALUES ('hjk asd sad sad sad', '/static/images/category/car1.jpg', 'bmw-6', '1500', '1');
+INSERT INTO `db_internet_shop_admin`.`products` (`description`, `image`, `name`, `price`, `category_id`) VALUES ('jkl asd sad sad sad', '/static/images/category/car1.jpg', 'bmw-7', '4100', '1');
